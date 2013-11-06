@@ -9,7 +9,7 @@ to both players.
 
 play_tournament() executes the tournament and stores output in tournament.txt
 
-Players should each code their strategies in their assigned section of code.
+Players should each code their strategies in their assigned section of code.obuiubou
 
 Aggregated results are stored in tournament.txt
 
